@@ -1,4 +1,4 @@
-# spaCy Chunks
+![logo](images/spacy_chunks.png)
 
 spaCy Chunks is a custom pipeline component for spaCy that allows you to generate overlapping chunks of sentences or tokens from a document. This component is useful for various NLP tasks that require processing text in smaller, potentially overlapping segments.
 
